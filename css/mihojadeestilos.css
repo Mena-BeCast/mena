@@ -1,0 +1,68 @@
+@charset "utf-8";
+.bg-mena {
+	background:#e1532a
+}
+.bg-carrusel {
+	background: #fff7e8
+}
+.m-top {
+}
+.bg-img {
+    background-image: url(../images/3.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img-tienda {
+    background-image: url(../images/banner%20tienda.png);
+    background-position: center center;
+    background-size: cover;
+    height: 446px;
+    margin-top: 11px;
+    margin-bottom: 50px;
+}
+.btn-rosa {
+    background-color: #cc3363;
+}
+.bg-pink {
+    background-color: #EA81AB;
+}
+.bg-aqua {
+    background-color: #A2CDC0;
+}
+.redondear {
+    border-top-left-radius: 120px 120px;
+    border-top-right-radius: 120px 120px;
+}
+.bg-logo {
+    background-image: url(../images/Logo.png);
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 377px;
+    height: 377px;
+}
+.text-mena {
+    color: #E1532A;
+}
+.redondito {
+    border-radius: 100px;
+}
+.img-yo {
+    background-image: url(../images/banner%203.png);
+    height: 446px;
+    background-size: cover;
+    background-position: center center;
+}
+.img-centrada {
+    background-size: cover;
+    background-position: center center;
+}
+.imgyos {
+    background-image: url(../images/yo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 377px;
+    height: 377px;
+}
